@@ -48,7 +48,7 @@ body{
     width: 50%;
     float:left;
     position: relative;
-    background-color: white;
+
 }
 
 /*#about-me{*/
@@ -230,7 +230,6 @@ body{
 #nav {
     list-style: none inside;
     margin: 0 auto;
-    padding: 0;
     text-align: center;
     display: table;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -266,7 +265,7 @@ body{
 /* smaller font size for sub menu items */
 
 #nav li:hover {
-    background: #003f20;
+    background: #f6dcff;
 }
 
 
