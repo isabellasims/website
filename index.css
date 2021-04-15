@@ -130,120 +130,23 @@ body{
 
 
 
-/*!*END NAV BAR*!*/
+/**/
+/**/
+/*PHOTOS*/
+/**/
+/**/
 
+#img-content{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    background-color: aliceblue;
 
-/*#twitter{*/
+}
 
-/*    float:right;*/
-/*    width: 20px;*/
-/*    height: 20px;*/
-/*    padding-right:20px;*/
-/*    padding-bottom: 10px;*/
-/*    padding-top: 50px;*/
-
-/*}*/
-
-
-/*#fb{*/
-
-/*    float:right;*/
-/*    width: 20px;*/
-/*    height: 20px;*/
-/*    padding-right:10px;*/
-/*    padding-top: 50px;*/
-/*    padding-bottom: 10px;*/
-/*}*/
-
-
-/*.large-img-container img{*/
-/*    margin: 0 auto;*/
-/*    display:block;*/
-/*    width: 80%;*/
-/*}*/
-
-/*#contact-info {*/
-/*    background-color: #e96133;*/
-/*    text-align: center;*/
-/*    padding: 0;*/
-/*    display: table;*/
-/*    margin: 0 auto;*/
-/*    width: 80%;*/
-
-/*}*/
-
-/*.non-link-info{*/
-/*    color: white;*/
-/*}*/
-
-/*#subscribe{*/
-/*    width: 80%;*/
-/*    color: saddlebrown;*/
-/*    text-align: right;*/
-/*    margin: 0 auto;*/
-/*}*/
-
-
-/*#tm{*/
-/*    text-align: center;*/
-/*    color: saddlebrown;*/
-/*}*/
-
-/*#input {*/
-/*    padding-right: 120px;*/
-/*    text-align: right;*/
-/*}*/
-
-/*input:hover {*/
-/*    padding-right: 120px;*/
-/*    text-align: right;*/
-/*    border-width: 5px;*/
-/*}*/
-
-/*#bannerimage {*/
-/*    width: 100%;*/
-/*    background-image: url("https://i.ibb.co/1Jshfh3/Screen-Shot-2021-02-21-at-9-05-53-PM.png");*/
-/*    height: 100px;*/
-/*    background-color: purple;*/
-/*    background-position: center;*/
-/*    padding-left:200px;*/
-/*}*/
-/*#contact-info2{*/
-/*    background-color: #e96133;*/
-/*    text-align: center;*/
-/*    padding: 0;*/
-/*    display: table;*/
-/*    margin: 0 auto;*/
-/*    width: 80%;*/
-/*}*/
-
-/*#contact-info div{*/
-/*    border: 1px solid white;*/
-/*    display:flex;*/
-/*    flex-basis: 100%;*/
-
-
-/*}*/
-/*#table-container{*/
-/*    display:flex;*/
-
-
-/*}*/
-/*#table-container div{*/
-/*    text-align: center;*/
-
-/*}*/
-
-/*#one{*/
-/*    flex:1;*/
-
-/*}*/
-/*#two{*/
-/*    flex:2;*/
-/*}*/
-/*#three{*/
-/*    flex:3;*/
-/*}*/
-
-
-
+.photos{
+    width:100%;
+    height: auto;
+    padding: 2%;
+    align-self: center;
+}
